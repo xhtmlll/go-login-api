@@ -1,3 +1,3 @@
-module lahb_no
+module module github.com/xhtmlll/go-login-api
 
 go 1.21.3
