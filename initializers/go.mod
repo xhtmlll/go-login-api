@@ -5,7 +5,7 @@ go 1.21.3
 require (
 	github.com/joho/godotenv v1.5.1
 	// gorm.io/driver/sqlite v1.5.4
-	ggithub.com/glebarez/sqlite v1.10.0
+	github.com/glebarez/sqlite v1.10.0
 	gorm.io/gorm v1.25.5
 )
 
